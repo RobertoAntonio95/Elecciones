@@ -1,0 +1,26 @@
+autor,joseantoniokast,,,
+,,,,
+Etiquetas de fila,Cuenta de sentimiento,,,
+alegría,1574,,,
+anticipación,2109,,,
+asco,1272,,,
+confianza,2868,,,
+enfado,1974,,,
+miedo,2839,,,
+sorpresa,898,,,
+tristeza,2006,,,
+Total general,15540,,,
+,,,,
+,,,,
+Gabriel Boric,,,Kast,
+confianza,2863,,confianza,2868
+alegría,1908,,miedo,2839
+anticipación,1866,,anticipación,2109
+miedo,1771,,tristeza,2006
+enfado,1115,,enfado,1974
+tristeza,1113,,alegría,1574
+sorpresa,864,,asco,1272
+asco,756,,sorpresa,898
+,,,,
+negativo,3189,,negativo,4689
+positivo,5108,,positivo,5056
