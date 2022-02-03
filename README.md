@@ -29,6 +29,6 @@ Por último, mencionar que el presente análisis está libre de sesgos político
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/4N1QGzND/similaridad.png" alt="similaridad"/></a><br/><br/>
 
 
-
+Link a la galeria: https://postimg.cc/gallery/dZPbS82
 
 
